@@ -1,0 +1,104 @@
+body{
+    background-color: #070A1E;
+    height: 500vh;
+}
+
+#name{
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+    color: #412898
+
+}
+#name h1{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+#logo{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+}
+#logo img{
+    height: 100%;
+    width: 100%;
+}
+
+#content {
+    margin-top: 2vh;
+    margin-left: 10vw;
+    width: 80vw;
+    height: 400vh;
+    border: 1px solid white;
+    border-radius: 5%;
+}
+
+#navbar{
+    overflow: hidden;
+    height: 10vh;
+    position: relative;
+    bottom: 15vh;
+
+    border: 1px solid white;
+    border-radius: 25%;
+    background-color: ;
+}
+.elements{
+    margin-left: 100px;
+    position: relative;
+    left: 100px;
+    top: 10px;
+    font-size: 35px;
+    color:#412898;
+}
+#navbar a:hover{
+    background-color: black;
+}
+
+.elements2{
+    margin-right: 50px;
+    right: 20px;
+    padding: 10px;
+    font-size: 25px;
+    color:#412898;
+
+}
+
+#socials  ul:hover{
+    background-color: black;
+}
+
+.header-titles{
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card{
+    width: 400px;
+    height: 400px;
+    /* background-color: white; */
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-left: 100px;
+    color: white
+}
+
+#card2{
+    position: absolute;
+    right: 20vw;
+    top: 95vh;
+}
+.event-img{
+    color: white;
+    font-size: 50px;
+}
+
+#team-image{
+    margin-left: 250px;
+    /* text-align: center; */
+    width: 500px;
+}
